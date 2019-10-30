@@ -4,8 +4,6 @@
 <h2>For setting up the project</h2>
 
 <h3>1. Download the project</h3>
-Download the project from this repo.
-
 ### 2. Open Facebook and set-up 2-Factor Authentication
 In this step, i recommend you using Authen App like Google Authenticator on an Mobile Phone.
 
